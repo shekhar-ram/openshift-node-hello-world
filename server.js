@@ -13,5 +13,5 @@ app.listen(port, function(err) {
 });
 
 app.get('/', function(req, res) {
-    res.send('Hello from OpenShift, I am version 2.0');
+    res.send('Hello from OpenShift, I am version 3.0');
 });
